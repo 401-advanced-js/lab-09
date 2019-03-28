@@ -1,6 +1,5 @@
 'use strict';
 
-const players = require('../players/players-schema.js');
 const mongoose = require('mongoose');
 require('mongoose-schema-jsonschema')(mongoose);
 
