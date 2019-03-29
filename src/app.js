@@ -26,9 +26,12 @@ app.use(morgan('dev'));
 
 app.use(express.json());
 app.use(express.urlencoded({extended:true}));
+app.use('/docs', express.static('/docs'));
 
 // Routes
 app.use(v1Router);
+// app.get('/jsdoc',);    Future jsdoc path
+// app.get('/swagger',;    Future swagger path
 
 // Catchalls
 app.use(notFound);
