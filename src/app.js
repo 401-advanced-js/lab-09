@@ -29,6 +29,8 @@ app.use(express.urlencoded({extended:true}));
 
 // Routes
 app.use(v1Router);
+// app.get('/jsdoc',);    Future jsdoc path
+// app.get('/swagger',;    Future swagger path
 
 // Catchalls
 app.use(notFound);

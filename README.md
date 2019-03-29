@@ -6,14 +6,13 @@
 ### Spencer Hirata
 
 ### Links and Resources
-* [repo]()
-* [travis]()
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [repo](https://github.com/401-advanced-js/lab-09/pull/1)
+[![Build Status](https://travis-ci.com/401-advanced-js/lab-09.svg?branch=master)](https://travis-ci.com/401-advanced-js/lab-09)
+* [back-end](https://sh-lab09.herokuapp.com/) (when applicable)
 
 #### Documentation
-* [swagger](http://xyz.com) (API assignments only)
-* [jsdoc](http://xyz.com) (All assignments)
+* [swagger](https://sh-lab09.herokuapp.com/swagger)
+* [jsdoc](https://sh-lab09.herokuapp.com/jsdoc)
 
 ### Modules
 #### `modulename.js`
